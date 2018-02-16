@@ -1,4 +1,4 @@
-# LineAlphatTN
+# LineAlphatFork
 Forked version of alphat-new-generation #DEV #13/02/2018 #08PM
 <br>LineAlphat -> https://gitlab.com/m.rakha.f/alphat-new-generation<br><br>Status: Very Good
 
@@ -16,7 +16,7 @@ check your nodejs version
 
 How to run bot for the first time ?
 ------
-- `git clone https://github.com/DoniSatria/LineAlphatTN.git`
+- `git clone https://github.com/DoniSatria/LineAlphatFork.git`
 - `cd LineAlphatTN && npm install`
 - `insert your admin mid in main.js`
 - `npm start`
