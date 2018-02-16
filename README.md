@@ -17,7 +17,7 @@ check your nodejs version
 How to run bot for the first time ?
 ------
 - `git clone https://github.com/DoniSatria/LineAlphatFork.git`
-- `cd LineAlphatTN && npm install`
+- `cd LineAlphatFork && npm install`
 - `insert your admin mid in main.js`
 - `npm start`
 
